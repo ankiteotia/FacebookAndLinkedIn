@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  FaceBookSDK
+
+  Created by 10times on 19/01/17.
+  Copyright © 2017 Ankit Teotia. All rights reserved.
+*/
+
+"Setting" = "設置";
+"LogIn" = "登錄";
+"Notification" = "通知";
+"Sign Up" = "註冊";
+"Home" = "家";
+"Event List" = "活動列表";
+"Event Detail" = "活動詳情";
+"Contact Organizer" = "聯繫人組織者";
+"Profile" = "簡介";
+"Enter Valid Event Code" = "輸入有效的事件代碼";
+"loading" = "載入中";
+"Reminder is added successfully" = "已成功添加提醒";
+"Ok" = "好";
+"Interest" = "利益";
+"Login" = "登錄";
+"About" = "關於";
+"Rate Us On AppStore" = "評價我們在AppStore";
+"Privacy Policy" = "隱私政策";
+"10times is the world's largest service provider for business events. We are using technology to change the way our millions of users discover and experience events. Spread across 10,000 cities, we are in the process of developing a cutting edge mobile technology in order to re-invent how this industry conducts business. Whether its a tradeshow or conference, we have it all on a single freakishly amazing platform!" = "10倍是世界上最大的商業活動服務提供商。我們正在使用技術來改變我們數百萬用戶發現和體驗事件的方式。傳播到10,000個城市，我們正在開發先進的移動技術，以重新創造這個行業如何進行業務的過程。無論是展會還是會議，我們都有一個奇怪的平台！";
+"Incorrect OTP" = "不正確OTP";
+"Try Again!" = "再試一次";
+"Ok" = "好";
+"CFBundleDisplayName" = "10次";
+"CFBundleName" = "10次";

@@ -1,0 +1,195 @@
+
+/* Class = "UILabel"; text = "Email*"; ObjectID = "2tv-Ba-P0T"; */
+"2tv-Ba-P0T.text" = "電子郵件*";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "3Ue-Jk-o81"; */
+"3Ue-Jk-o81.text" = "英語";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "55h-Ky-4qp"; */
+"55h-Ky-4qp.text" = "標籤";
+
+/* Class = "UIButton"; normalTitle = "Contact"; ObjectID = "5ZL-Mo-gv6"; */
+"5ZL-Mo-gv6.normalTitle" = "聯繫";
+
+/* Class = "UILabel"; text = "Description*"; ObjectID = "694-5r-vrK"; */
+"694-5r-vrK.text" = "描述*";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "9M3-NN-DLy"; */
+"9M3-NN-DLy.placeholder" = "國家";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "AjZ-Xl-6XO"; */
+"AjZ-Xl-6XO.placeholder" = "名稱";
+
+/* Class = "UIButton"; normalTitle = "TRENDING"; ObjectID = "GJl-Wc-95W"; */
+"GJl-Wc-95W.normalTitle" = "趨勢";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "GoQ-nm-jue"; */
+"GoQ-nm-jue.normalTitle" = "註冊";
+
+/* Class = "UILabel"; text = "Designation*"; ObjectID = "HuY-Tp-iVA"; */
+"HuY-Tp-iVA.text" = "指定*";
+
+/* Class = "UILabel"; text = "City*"; ObjectID = "IJ0-fx-Avj"; */
+"IJ0-fx-Avj.text" = "市*";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lf5-62-Ep4"; */
+"Lf5-62-Ep4.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "Powered By 10times"; ObjectID = "OZa-DP-NCu"; */
+"OZa-DP-NCu.text" = "供電";
+
+/* Class = "UITextField"; placeholder = "Enter Event Code"; ObjectID = "QB3-P0-IoG"; */
+"QB3-P0-IoG.placeholder" = "輸入事件代碼";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "RBX-Zq-pO3"; */
+"RBX-Zq-pO3.normalTitle" = "登出";
+
+/* Class = "UILabel"; text = "Country*"; ObjectID = "RoI-Xm-3ym"; */
+"RoI-Xm-3ym.text" = "國家*";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "UNg-OR-sBH"; */
+"UNg-OR-sBH.placeholder" = "電子郵件地址";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "UgF-hZ-0vI"; */
+"UgF-hZ-0vI.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "Up2-Hl-VW1"; */
+"Up2-Hl-VW1.text" = "西班牙語";
+
+/* Class = "UINavigationItem"; title = "WelCome to 10times"; ObjectID = "WbS-Te-Z1K"; */
+"WbS-Te-Z1K.title" = "歡迎來到 10次";
+
+/* Class = "UITextField"; placeholder = "Designation"; ObjectID = "Wvl-OS-AfK"; */
+"Wvl-OS-AfK.placeholder" = "指定";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "X0N-MZ-ZTR"; */
+"X0N-MZ-ZTR.normalTitle" = "登錄";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ZFl-Hb-aTe"; */
+"ZFl-Hb-aTe.placeholder" = "電子郵件";
+
+/* Class = "UIViewController"; title = "FacebookDetailViewController"; ObjectID = "aR6-AI-IIJ"; */
+"aR6-AI-IIJ.title" = "FacebookDetailViewController";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "aUF-DW-EIf"; */
+"aUF-DW-EIf.placeholder" = "公司";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "aX6-4D-qnH"; */
+"aX6-4D-qnH.placeholder" = "描述";
+
+/* Class = "UIButton"; normalTitle = "  Setting"; ObjectID = "ay1-eN-T7P"; */
+"ay1-eN-T7P.normalTitle" = "  設置";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "b2X-1e-KR0"; */
+"b2X-1e-KR0.placeholder" = "名稱";
+
+/* Class = "UIButton"; normalTitle = "Contact Organizer"; ObjectID = "fFU-e4-5ha"; */
+"fFU-e4-5ha.normalTitle" = "聯繫人組織者";
+
+/* Class = "UIButton"; normalTitle = "UPCOMING"; ObjectID = "fft-Yj-VWi"; */
+"fft-Yj-VWi.normalTitle" = "即將到來";
+
+/* Class = "UITextField"; placeholder = "PassWord"; ObjectID = "g96-4w-96l"; */
+"g96-4w-96l.placeholder" = "密碼";
+
+/* Class = "UILabel"; text = "Mobile*"; ObjectID = "hNr-vF-GSI"; */
+"hNr-vF-GSI.text" = "移動*";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "jJQ-eM-XWU"; */
+"jJQ-eM-XWU.placeholder" = "手機號碼";
+
+/* Class = "UIButton"; normalTitle = "  Notification"; ObjectID = "jgn-j5-dQa"; */
+"jgn-j5-dQa.normalTitle" = "  通知";
+
+/* Class = "UILabel"; text = "Turn Notification OFF"; ObjectID = "jwF-vY-UaU"; */
+"jwF-vY-UaU.text" = "關閉通知";
+
+/* Class = "UIButton"; normalTitle = "  Share & Invite"; ObjectID = "l4d-Gu-wZt"; */
+"l4d-Gu-wZt.normalTitle" = "  分享和邀請";
+
+/* Class = "UILabel"; text = "Company*"; ObjectID = "llj-DZ-9jB"; */
+"llj-DZ-9jB.text" = "公司*";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "mKc-RJ-K2d"; */
+"mKc-RJ-K2d.normalTitle" = "簽到";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "ncd-Fw-P4P"; */
+"ncd-Fw-P4P.placeholder" = "電子郵件地址";
+
+/* Class = "UILabel"; text = "Chinese"; ObjectID = "pe2-cj-Q8p"; */
+"pe2-cj-Q8p.text" = "中文";
+
+/* Class = "UILabel"; text = "  Notification"; ObjectID = "q6k-rT-AVu"; */
+"q6k-rT-AVu.text" = "  通知";
+
+/* Class = "UIButton"; normalTitle = "  Home"; ObjectID = "qJp-pV-HYY"; */
+"qJp-pV-HYY.normalTitle" = "  家";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "qlc-n1-200"; */
+"qlc-n1-200.text" = "  語言";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "s3h-r0-5qw"; */
+"s3h-r0-5qw.normalTitle" = "寄存器";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "sI6-Lu-aKg"; */
+"sI6-Lu-aKg.placeholder" = "市";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "svZ-RG-L53"; */
+"svZ-RG-L53.normalTitle" = "走";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "uAN-pq-WCm"; */
+"uAN-pq-WCm.placeholder" = "公司";
+
+/* Class = "UILabel"; text = "You have no Notification Yet !"; ObjectID = "uiz-XB-sGG"; */
+"uiz-XB-sGG.text" = "您還沒有通知 !";
+
+/* Class = "UIButton"; normalTitle = "NEARBY"; ObjectID = "vqh-3g-zCt"; */
+"vqh-3g-zCt.normalTitle" = "附近";
+
+/* Class = "UILabel"; text = "Name*"; ObjectID = "ymb-QH-6cV"; */
+"ymb-QH-6cV.text" = "名稱*";
+
+/* Class = "UITextField"; placeholder = "Designation"; ObjectID = "zJ8-wB-snf"; */
+"zJ8-wB-snf.placeholder" = "指定";
+
+/* Class = "UIButton"; normalTitle = "Interest"; ObjectID = "NeN-Ap-tBv"; */
+"NeN-Ap-tBv.normalTitle" = " 利益";
+
+/* Class = "UIButton"; normalTitle = "About Us"; ObjectID = "MhO-Ui-ol4"; */
+"MhO-Ui-ol4.normalTitle" = "關於我們";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "GD1-gA-4FE"; */
+"GD1-gA-4FE.normalTitle" = "反饋";
+
+/* Class = "UILabel"; text = "Enter OTP here or password here"; ObjectID = "zj1-2l-ywU"; */
+"zj1-2l-ywU.text" = "在這裡輸入OTP或密碼";
+
+/* Class = "UITextField"; placeholder = "Password/OTP"; ObjectID = "V1s-aE-dMd"; */
+"V1s-aE-dMd.placeholder" = "密碼/ OTP";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "MUK-SB-boa"; */
+"MUK-SB-boa.normalTitle" = "登錄";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "fvt-no-ZB1"; */
+"fvt-no-ZB1.placeholder" = "名稱";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "DT1-CB-nWt"; */
+"DT1-CB-nWt.placeholder" = "公司";
+
+/* Class = "UITextField"; placeholder = "Designation"; ObjectID = "TGW-Yi-ydl"; */
+"TGW-Yi-ydl.placeholder" = "指定";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "4ZI-2C-7Bp"; */
+"4ZI-2C-7Bp.placeholder" = "位置";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uU6-Wi-GdH"; */
+"uU6-Wi-GdH.normalTitle" = "完成";
+
+/* Class = "UIButton"; normalTitle = "Check for Update"; ObjectID = "qGN-mr-3Au"; */
+"qGN-mr-3Au.normalTitle" = "檢查更新";
+
+/* Class = "UIButton"; normalTitle = "Version (2.4ios)"; ObjectID = "NTl-vi-4nm"; */
+"NTl-vi-4nm.normalTitle" = "版本(2.4 ios)";
+
+/* Class = "UILabel"; text = "10times App"; ObjectID = "BYh-Z3-igR"; */
+"BYh-Z3-igR.text" = "10次​​App";

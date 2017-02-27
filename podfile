@@ -1,0 +1,20 @@
+# platform :ios, '9.0'
+
+target ‘FaceBookSDK’ do
+  # use_frameworks!
+pod 'Bolts'
+pod 'FBSDKCoreKit'
+pod 'FBSDKShareKit'
+pod 'FBSDKLoginKit'
+pod 'SVProgressHUD-0.8.1'
+pod 'PINCache', '~> 2.1'
+pod 'Firebase/Auth'
+pod 'AFNetworking', '~> 2.2’
+pod "FGTranslator"
+pod 'MMDrawerController', '~> 0.5.7'
+pod 'MGSwipeTableCell'
+pod 'SDWebImage', '~>3.8'
+pod 'Haneke', '~> 1.0'
+# Pods for FaceBookSDK
+
+end

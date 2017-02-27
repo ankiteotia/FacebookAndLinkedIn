@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Email*"; ObjectID = "2tv-Ba-P0T"; */
+"2tv-Ba-P0T.text" = "Email*";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "3Ue-Jk-o81"; */
+"3Ue-Jk-o81.text" = "English";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "55h-Ky-4qp"; */
+"55h-Ky-4qp.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Contact"; ObjectID = "5ZL-Mo-gv6"; */
+"5ZL-Mo-gv6.normalTitle" = "Contact";
+
+/* Class = "UILabel"; text = "Description*"; ObjectID = "694-5r-vrK"; */
+"694-5r-vrK.text" = "Description*";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "9M3-NN-DLy"; */
+"9M3-NN-DLy.placeholder" = "Country";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "AjZ-Xl-6XO"; */
+"AjZ-Xl-6XO.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Treanding"; ObjectID = "GJl-Wc-95W"; */
+"GJl-Wc-95W.normalTitle" = "Treanding";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "GoQ-nm-jue"; */
+"GoQ-nm-jue.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Designation*"; ObjectID = "HuY-Tp-iVA"; */
+"HuY-Tp-iVA.text" = "Designation*";
+
+/* Class = "UILabel"; text = "City*"; ObjectID = "IJ0-fx-Avj"; */
+"IJ0-fx-Avj.text" = "City*";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lf5-62-Ep4"; */
+"Lf5-62-Ep4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Powered Buy 10times"; ObjectID = "OZa-DP-NCu"; */
+"OZa-DP-NCu.text" = "Powered Buy 10times";
+
+/* Class = "UITextField"; placeholder = "Enter Event Code"; ObjectID = "QB3-P0-IoG"; */
+"QB3-P0-IoG.placeholder" = "Enter Event Code";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "RBX-Zq-pO3"; */
+"RBX-Zq-pO3.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Country*"; ObjectID = "RoI-Xm-3ym"; */
+"RoI-Xm-3ym.text" = "Country*";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "UNg-OR-sBH"; */
+"UNg-OR-sBH.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "UgF-hZ-0vI"; */
+"UgF-hZ-0vI.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "Up2-Hl-VW1"; */
+"Up2-Hl-VW1.text" = "Spanish";
+
+/* Class = "UITextField"; placeholder = "Designation"; ObjectID = "Wvl-OS-AfK"; */
+"Wvl-OS-AfK.placeholder" = "Designation";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "X0N-MZ-ZTR"; */
+"X0N-MZ-ZTR.normalTitle" = "LogIn";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ZFl-Hb-aTe"; */
+"ZFl-Hb-aTe.placeholder" = "Email";
+
+/* Class = "UIViewController"; title = "FacebookDetailViewController"; ObjectID = "aR6-AI-IIJ"; */
+"aR6-AI-IIJ.title" = "FacebookDetailViewController";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "aUF-DW-EIf"; */
+"aUF-DW-EIf.placeholder" = "Company";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "aX6-4D-qnH"; */
+"aX6-4D-qnH.placeholder" = "Description";
+
+/* Class = "UIButton"; normalTitle = "  Setting"; ObjectID = "ay1-eN-T7P"; */
+"ay1-eN-T7P.normalTitle" = "  Setting";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "b2X-1e-KR0"; */
+"b2X-1e-KR0.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Contact Organizer"; ObjectID = "fFU-e4-5ha"; */
+"fFU-e4-5ha.normalTitle" = "Contact Organizer";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "fft-Yj-VWi"; */
+"fft-Yj-VWi.normalTitle" = "Upcoming";
+
+/* Class = "UITextField"; placeholder = "PassWord"; ObjectID = "g96-4w-96l"; */
+"g96-4w-96l.placeholder" = "PassWord";
+
+/* Class = "UILabel"; text = "Mobile*"; ObjectID = "hNr-vF-GSI"; */
+"hNr-vF-GSI.text" = "Mobile*";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "jJQ-eM-XWU"; */
+"jJQ-eM-XWU.placeholder" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "  Notification"; ObjectID = "jgn-j5-dQa"; */
+"jgn-j5-dQa.normalTitle" = "  Notification";
+
+/* Class = "UIButton"; normalTitle = "  Share & Invite"; ObjectID = "l4d-Gu-wZt"; */
+"l4d-Gu-wZt.normalTitle" = "  Share & Invite";
+
+/* Class = "UILabel"; text = "Company*"; ObjectID = "llj-DZ-9jB"; */
+"llj-DZ-9jB.text" = "Company*";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "mKc-RJ-K2d"; */
+"mKc-RJ-K2d.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "ncd-Fw-P4P"; */
+"ncd-Fw-P4P.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Chinese"; ObjectID = "pe2-cj-Q8p"; */
+"pe2-cj-Q8p.text" = "Chinese";
+
+/* Class = "UILabel"; text = "  Notification"; ObjectID = "q6k-rT-AVu"; */
+"q6k-rT-AVu.text" = "  Notification";
+
+/* Class = "UIButton"; normalTitle = "  Home"; ObjectID = "qJp-pV-HYY"; */
+"qJp-pV-HYY.normalTitle" = "  Home";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "qlc-n1-200"; */
+"qlc-n1-200.text" = "  Language";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "s3h-r0-5qw"; */
+"s3h-r0-5qw.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "sI6-Lu-aKg"; */
+"sI6-Lu-aKg.placeholder" = "City";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "svZ-RG-L53"; */
+"svZ-RG-L53.normalTitle" = "Go";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "uAN-pq-WCm"; */
+"uAN-pq-WCm.placeholder" = "Company";
+
+/* Class = "UILabel"; text = "You have no Notification Yet !"; ObjectID = "uiz-XB-sGG"; */
+"uiz-XB-sGG.text" = "You have no Notification Yet !";
+
+/* Class = "UIButton"; normalTitle = "NearBy"; ObjectID = "vqh-3g-zCt"; */
+"vqh-3g-zCt.normalTitle" = "NearBy";
+
+/* Class = "UILabel"; text = "Name*"; ObjectID = "ymb-QH-6cV"; */
+"ymb-QH-6cV.text" = "Name*";
+
+/* Class = "UITextField"; placeholder = "Designation"; ObjectID = "zJ8-wB-snf"; */
+"zJ8-wB-snf.placeholder" = "Designation";

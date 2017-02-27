@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "AQ0-ic-H7m"; */
+"AQ0-ic-H7m.text" = "位置";
+
+/* Class = "UILabel"; text = "  Event Name"; ObjectID = "Ddr-a7-LbU"; */
+"Ddr-a7-LbU.text" = "  事件名稱";
+
+/* Class = "UILabel"; text = "  Date"; ObjectID = "NGW-I4-Acd"; */
+"NGW-I4-Acd.text" = "  日期";
+
+/* Class = "UIButton"; normalTitle = "Attend"; ObjectID = "mKb-Bo-fmO"; */
+"mKb-Bo-fmO.normalTitle" = "出席";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "oK6-e6-pRd"; */
+"oK6-e6-pRd.normalTitle" = "跟隨";
